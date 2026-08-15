@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cebas",
+    "nome": "Bolsa CEBAS",
+    "descricao": "A Bolsa CEBAS (Certificação de Entidade Beneficente de Assistência Social) é concedida pela Faculdade Donaduzzi a estudantes em situação de vulnerabilidade socioeconômica, conforme a Lei Complementar nº 187/2021. A análise é feita de forma humanizada pela equipe de Assistência Social da faculdade.",
+    "tipo": "institucional",
+    "percentual": "Parcial (50%) ou Integral (100%)",
+    "icone": "🤝",
+    "requisitos": [
+      "Renda familiar bruta mensal per capita de até 1,5 salário mínimo (bolsa integral) ou até 3 salários mínimos (bolsa parcial de 50%)",
+      "Estar regularmente matriculado ou com matrícula em processo na Faculdade Donaduzzi para 2026",
+      "Preencher o Questionário Socioeconômico e entregar documentação completa",
+      "Inscrição via e-mail secretaria@bpkedu.com.br ou WhatsApp (45) 99114-8284",
+      "Manter aproveitamento acadêmico em pelo menos 75% das disciplinas para renovação"
+    ],
+    "link": "https://www.bioparkeducacao.com.br",
+    "destaque": "Análise humanizada pela equipe de Assistência Social — a equipe te ajuda em todo o processo"
+  },
+  {
+    "id": "empregabilidade",
+    "nome": "Bolsa Empregabilidade",
+    "descricao": "Não está trabalhando? Então você não paga mensalidade enquanto não tiver emprego. E mais: a faculdade te indica para entrevistas e te conecta com empresas parceiras desde o primeiro semestre.",
+    "tipo": "institucional",
+    "percentual": "Até 100% (enquanto sem emprego)",
+    "icone": "💼",
+    "requisitos": [
+      "Não estar trabalhando no momento da matrícula",
+      "Comprovar situação de desemprego",
+      "Participar das indicações de entrevistas da faculdade",
+      "Quando conseguir emprego, começa a pagar normalmente"
+    ],
+    "link": "https://faculdadedonaduzzi.com.br",
+    "destaque": "Sem emprego = sem mensalidade. Com indicação de entrevistas desde o 1º semestre!"
+  },
+  {
+    "id": "fies",
+    "nome": "FIES",
+    "descricao": "Financiamento Estudantil do Governo Federal. Você estuda agora e paga depois de se formar, com juros muito baixos. Uma forma tranquila de investir na sua carreira sem comprometer o bolso hoje.",
+    "tipo": "federal",
+    "percentual": "Até 100% financiado",
+    "icone": "📋",
+    "requisitos": [
+      "Nota mínima de 450 no ENEM",
+      "Renda familiar bruta mensal de até 3 salários mínimos por pessoa",
+      "Não ter feito curso superior financiado pelo FIES antes"
+    ],
+    "link": "https://acessounico.mec.gov.br/fies",
+    "destaque": "Paga só depois de formado — com juros baixíssimos"
+  }
+]

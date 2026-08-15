@@ -1,0 +1,25 @@
+# Interface web
+streamlit>=1.37
+
+# Dados e análise
+pandas>=2.2
+openpyxl>=3.1
+
+# Imagens e QR Code
+Pillow>=10.0
+qrcode[pil]>=7.4
+
+# Scraping
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# Autenticação e segurança
+bcrypt>=4.0
+
+# Banco de dados (opcional — necessário se Supabase estiver configurado)
+supabase>=2.3
+
+# Google Sheets (opcional — necessário se backup de leads estiver configurado)
+gspread>=6.0
+google-auth>=2.0

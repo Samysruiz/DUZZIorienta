@@ -1,0 +1,42 @@
+# Banco de dados local
+.leads.db
+*.db
+
+# Secrets do Streamlit
+.streamlit/secrets.toml
+.streamlit/
+
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Cache Streamlit
+.streamlit/cache/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de ambiente
+.env
+.env.local

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "administracao",
+    "name": "Administração",
+    "level": "Bacharelado",
+    "duration": "8 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/graduacao-administracao",
+    "summary": "O Curso de Administração da Faculdade Donaduzzi se destaca pela sua ênfase na preparação de profissionais altamente capacitados. Composto por 56 projetos aplicáveis em diversas áreas empresariais, o curso proporciona um processo de aprendizado dinâmico, sendo notável a ocorrência desses projetos em ",
+    "tags": [
+      "negócios",
+      "liderança",
+      "gestão",
+      "marketing",
+      "empreendedorismo"
+    ],
+    "areas": [
+      "gestão empresarial",
+      "finanças",
+      "marketing",
+      "logística",
+      "consultoria"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "ads",
+    "name": "Análise e Desenvolvimento de Sistemas",
+    "level": "Tecnólogo",
+    "duration": "5 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/graduacao-analise-e-desenvolvimento-de-sistemas",
+    "summary": "O curso de Análise e Desenvolvimento de Sistemas (ADS) tem como objetivo principal preparar os alunos para atuarem na área de tecnologia da informação, com foco na análise, projeto, desenvolvimento e manutenção de sistemas de software.",
+    "tags": [
+      "programação",
+      "software",
+      "web",
+      "mobile",
+      "infraestrutura"
+    ],
+    "areas": [
+      "desenvolvimento de software",
+      "gestão de projetos",
+      "análise de requisitos"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "pedagogia",
+    "name": "Pedagogia",
+    "level": "Licenciatura",
+    "duration": "8 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/cursos-de-graduacao/graduacao-em-pedagogia/",
+    "summary": "O curso de Pedagogia da Faculdade Donaduzzi forma profissionais preparados para atuar na educação infantil, nos anos iniciais do ensino fundamental e na gestão educacional. Com uma proposta moderna, integra teoria e prática desde o início, utilizando metodologias ativas e foco em situações reais. O ",
+    "tags": [
+      "ensino",
+      "educação",
+      "desenvolvimento humano",
+      "mediação",
+      "didática"
+    ],
+    "areas": [
+      "docência",
+      "gestão escolar",
+      "educação infantil",
+      "educação inclusiva",
+      "EJA",
+      "pedagogia empresarial e hospitalar"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "ciencia_dados",
+    "name": "Ciência de Dados",
+    "level": "Tecnólogo",
+    "duration": "5 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/graduacao-ciencia-de-dados",
+    "summary": "Com a evolução tecnológica, a quantidade de dados disponíveis aumentou significativamente, requerendo análises mais sofisticadas para extrair insights valiosos que orientem a tomada de decisões. Nesse cenário, a Ciência de Dados emergiu como uma área, visando fornecer às empresas e instituições, pro",
+    "tags": [
+      "dados",
+      "estatística",
+      "machine learning",
+      "mlops",
+      "bi"
+    ],
+    "areas": [
+      "análise de dados",
+      "inteligência artificial",
+      "engenharia de dados",
+      "business intelligence"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "eng_software",
+    "name": "Engenharia de Software",
+    "level": "Licenciatura",
+    "duration": "8 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/graduacao-engenharia-de-software",
+    "summary": "O curso de Engenharia de Software tem como objetivo ensinar ao estudante todas as fases do processo de desenvolvimento de software, além de análise, projeto, testes, treinamento, implantação e manutenção do sistema.",
+    "tags": [
+      "arquitetura",
+      "qualidade",
+      "cloud",
+      "microsserviços",
+      "desenvolvimento"
+    ],
+    "areas": [
+      "engenharia de software",
+      "arquitetura",
+      "pesquisa",
+      "modernização de sistemas"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "eng_bioprocessos",
+    "name": "Engenharia de Bioprocessos e Biotecnologia",
+    "level": "Licenciatura",
+    "duration": "10 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/graduacao-engenharia-de-bioprocessos",
+    "summary": "O curso desenvolve no aluno os princípios éticos, visão sistêmica e inovadora comprometida com a postura solidária em busca de um futuro mais humano, sustentável e tecnológico.",
+    "tags": [
+      "biotecnologia",
+      "laboratório",
+      "sustentabilidade",
+      "agro",
+      "engenharia"
+    ],
+    "areas": [
+      "bioprocessos",
+      "agronegócio",
+      "pesquisa aplicada",
+      "indústria farmacêutica"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "farmacia",
+    "name": "Farmácia",
+    "level": "Bacharelado",
+    "duration": "10 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/graduacao-farmacia",
+    "summary": "O curso deFarmáciadaFaculdade Donaduzziforma profissionais capazes de atuar diretamente na promoção da saúde, no cuidado com os pacientes e no desenvolvimento de novas soluções para a área da saúde e da ciência. É uma graduação que une conhecimento técnico, pesquisa e prática profissional, preparand",
+    "tags": [
+      "saúde",
+      "laboratório",
+      "medicamentos",
+      "análises clínicas",
+      "pacientes"
+    ],
+    "areas": [
+      "indústria farmacêutica",
+      "análises clínicas",
+      "farmácia hospitalar",
+      "toxicologia"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "inteligencia_artificial",
+    "name": "Inteligência Artificial",
+    "level": "Bacharelado",
+    "duration": "8 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/inteligencia-artificial",
+    "summary": "A Inteligência Artificial (IA) está por toda parte, transformando a maneira como vivemos, trabalhamos e nos comunicamos. Desde assistentes virtuais que simplificam tarefas diárias até sistemas de recomendação que personalizam nossas experiências online, facilitando nossas vidas de maneiras antes ini",
+    "tags": [
+      "ia",
+      "deep learning",
+      "visão computacional",
+      "pln",
+      "dados"
+    ],
+    "areas": [
+      "especialista em IA",
+      "cientista de dados",
+      "engenheiro de dados",
+      "gestão de projetos de IA"
+    ],
+    "evidence": [
+      "Dúvidas? Fale Conosco",
+      "(45) 2036-3607",
+      "Inscreva-se viaWhatsApp",
+      "Portal do Professor"
+    ]
+  },
+  {
+    "id": "psicologia",
+    "name": "Psicologia",
+    "level": "Bacharelado",
+    "duration": "10 semestres",
+    "turno": "Noturno",
+    "url": "https://faculdadedonaduzzi.com.br/cursos-de-graduacao/graduacao-em-psicologia/",
+    "summary": "A Graduação em Psicologia da Faculdade Donaduzzi prepara profissionais para compreender o comportamento humano, promover saúde mental e atuar na transformação da vida das pessoas em diferentes contextos. Com formação presencial, o curso integra ciência, prática e inovação, com atuação nas áreas clínica, hospitalar, organizacional, escolar, jurídica e social. Autorizado com nota máxima (Conceito 5) pelo MEC. Primeira turma: 2º semestre de 2026.",
+    "areas": [
+      "psicologia clínica",
+      "psicologia hospitalar",
+      "psicologia organizacional",
+      "psicologia escolar",
+      "psicologia jurídica",
+      "saúde coletiva",
+      "gestão de pessoas"
+    ],
+    "tags": [
+      "saúde mental",
+      "comportamento humano",
+      "cuidado",
+      "terapia",
+      "pessoas"
+    ],
+    "evidence": []
+  }
+]

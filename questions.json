@@ -1,0 +1,327 @@
+[
+  {
+    "id": "q1",
+    "text": "Você se imagina mais resolvendo problemas com tecnologia ou com processos humanos?",
+    "options": [
+      {
+        "label": "Tecnologia e sistemas",
+        "weights": {
+          "ads": 3,
+          "eng_software": 3,
+          "ciencia_dados": 2,
+          "inteligencia_artificial": 2
+        }
+      },
+      {
+        "label": "Negócios, gestão e pessoas",
+        "weights": {
+          "administracao": 4
+        }
+      },
+      {
+        "label": "Saúde, laboratório e impacto biológico",
+        "weights": {
+          "farmacia": 3,
+          "eng_bioprocessos": 3
+        }
+      },
+      {
+        "label": "Educação, ensino e desenvolvimento humano",
+        "weights": {
+          "pedagogia": 4
+        }
+      },
+      {
+        "label": "Comportamento humano, saúde mental e bem-estar",
+        "weights": {
+          "psicologia": 4,
+          "farmacia": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "O que mais te anima em um curso?",
+    "options": [
+      {
+        "label": "Criar aplicativos, sites ou sistemas",
+        "weights": {
+          "ads": 4,
+          "eng_software": 4
+        }
+      },
+      {
+        "label": "Analisar dados e encontrar padrões",
+        "weights": {
+          "ciencia_dados": 4,
+          "inteligencia_artificial": 3
+        }
+      },
+      {
+        "label": "Desenvolver soluções para saúde, indústria ou agro",
+        "weights": {
+          "eng_bioprocessos": 4,
+          "farmacia": 3
+        }
+      },
+      {
+        "label": "Planejar negócios e liderar projetos",
+        "weights": {
+          "administracao": 4
+        }
+      },
+      {
+        "label": "Ensinar, orientar e formar pessoas",
+        "weights": {
+          "pedagogia": 4
+        }
+      },
+      {
+        "label": "Compreender pessoas, escutar e promover saúde mental",
+        "weights": {
+          "psicologia": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "Você gosta de matemática e raciocínio lógico?",
+    "options": [
+      {
+        "label": "Muito",
+        "weights": {
+          "ciencia_dados": 3,
+          "inteligencia_artificial": 4,
+          "eng_software": 2
+        }
+      },
+      {
+        "label": "Gosto quando tem aplicação prática",
+        "weights": {
+          "ads": 2,
+          "administracao": 1,
+          "eng_bioprocessos": 2,
+          "farmacia": 1
+        }
+      },
+      {
+        "label": "Prefiro outras habilidades",
+        "weights": {
+          "administracao": 2,
+          "farmacia": 1,
+          "psicologia": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "Qual ambiente combina mais com você?",
+    "options": [
+      {
+        "label": "Computador, código e testes",
+        "weights": {
+          "ads": 3,
+          "eng_software": 4,
+          "inteligencia_artificial": 2
+        }
+      },
+      {
+        "label": "Laboratório, pesquisa e experimentos",
+        "weights": {
+          "farmacia": 4,
+          "eng_bioprocessos": 4
+        }
+      },
+      {
+        "label": "Empresas, estratégia e tomada de decisão",
+        "weights": {
+          "administracao": 4,
+          "ciencia_dados": 1
+        }
+      },
+      {
+        "label": "Sala de aula, mentoria e relações interpessoais",
+        "weights": {
+          "pedagogia": 4
+        }
+      },
+      {
+        "label": "Consultório, clínica, hospital ou organizações — trabalhando com comportamento e emoções",
+        "weights": {
+          "psicologia": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "Você se interessa por inteligência artificial?",
+    "options": [
+      {
+        "label": "Quero mergulhar fundo nesse universo",
+        "weights": {
+          "inteligencia_artificial": 5,
+          "ciencia_dados": 3
+        }
+      },
+      {
+        "label": "Quero usar IA como ferramenta no desenvolvimento",
+        "weights": {
+          "eng_software": 2,
+          "ads": 2
+        }
+      },
+      {
+        "label": "Tenho curiosidade, mas não é meu foco principal",
+        "weights": {
+          "administracao": 1,
+          "farmacia": 1,
+          "eng_bioprocessos": 1,
+          "psicologia": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "Qual problema você gostaria de resolver?",
+    "options": [
+      {
+        "label": "Melhorar empresas e resultados",
+        "weights": {
+          "administracao": 4,
+          "ciencia_dados": 2
+        }
+      },
+      {
+        "label": "Criar produtos digitais úteis",
+        "weights": {
+          "ads": 4,
+          "eng_software": 4
+        }
+      },
+      {
+        "label": "Educar e formar pessoas para o futuro",
+        "weights": {
+          "pedagogia": 4
+        }
+      },
+      {
+        "label": "Desenvolver soluções para saúde e bem-estar",
+        "weights": {
+          "farmacia": 4,
+          "eng_bioprocessos": 2,
+          "psicologia": 4
+        }
+      },
+      {
+        "label": "Construir sistemas inteligentes que aprendem",
+        "weights": {
+          "inteligencia_artificial": 4,
+          "ciencia_dados": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "q7",
+    "text": "Como você prefere aprender e trabalhar?",
+    "options": [
+      {
+        "label": "Resolvendo problemas práticos com código e ferramentas",
+        "weights": {
+          "ads": 3,
+          "eng_software": 3,
+          "ciencia_dados": 2
+        }
+      },
+      {
+        "label": "Desenvolvendo experimentos, protótipos e pesquisa aplicada",
+        "weights": {
+          "eng_bioprocessos": 3,
+          "farmacia": 3
+        }
+      },
+      {
+        "label": "Tomando decisões estratégicas com base em dados e análises",
+        "weights": {
+          "administracao": 3,
+          "ciencia_dados": 2,
+          "inteligencia_artificial": 2
+        }
+      },
+      {
+        "label": "Ensinando, mediando e acompanhando o aprendizado de pessoas",
+        "weights": {
+          "pedagogia": 3
+        }
+      },
+      {
+        "label": "Ouvindo, compreendendo e cuidando do bem-estar das pessoas",
+        "weights": {
+          "psicologia": 4,
+          "pedagogia": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q8",
+    "text": "Qual habilidade você mais quer desenvolver?",
+    "options": [
+      {
+        "label": "Liderança, negociação e visão de negócio",
+        "weights": {
+          "administracao": 4
+        }
+      },
+      {
+        "label": "Programação prática para web, mobile e software",
+        "weights": {
+          "ads": 4,
+          "eng_software": 3
+        }
+      },
+      {
+        "label": "Modelagem de dados, estatística e previsões",
+        "weights": {
+          "ciencia_dados": 4,
+          "inteligencia_artificial": 2
+        }
+      },
+      {
+        "label": "Deep learning, visão computacional e PLN",
+        "weights": {
+          "inteligencia_artificial": 5
+        }
+      },
+      {
+        "label": "Análises clínicas, medicamentos e cuidado",
+        "weights": {
+          "farmacia": 4
+        }
+      },
+      {
+        "label": "Biotecnologia, processos industriais e sustentabilidade",
+        "weights": {
+          "eng_bioprocessos": 4
+        }
+      },
+      {
+        "label": "Didática, comunicação e mediação de aprendizagem",
+        "weights": {
+          "pedagogia": 5
+        }
+      },
+      {
+        "label": "Escuta clínica, avaliação psicológica e saúde mental",
+        "weights": {
+          "psicologia": 4
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "administracao": {
+    "tda": 62.1,
+    "tca": 24.4,
+    "tap": 13.6,
+    "registros": 1962,
+    "area": "Negócios, administração e direito",
+    "fonte": "fallback"
+  },
+  "ads": {
+    "tda": 65.7,
+    "tca": 27.4,
+    "tap": 6.9,
+    "registros": 603,
+    "area": "Computação e TIC",
+    "fonte": "fallback"
+  },
+  "ciencia_dados": {
+    "tda": 65.6,
+    "tca": 24.3,
+    "tap": 10.0,
+    "registros": 28,
+    "area": "Computação e TIC",
+    "fonte": "fallback"
+  },
+  "eng_software": {
+    "tda": 58.5,
+    "tca": 23.8,
+    "tap": 17.6,
+    "registros": 88,
+    "area": "Computação e TIC",
+    "fonte": "fallback"
+  },
+  "eng_bioprocessos": {
+    "tda": 50.2,
+    "tca": 6.5,
+    "tap": 43.3,
+    "registros": 19,
+    "area": "Agropecuária e Biotecnologia",
+    "fonte": "fallback"
+  },
+  "farmacia": {
+    "tda": 49.3,
+    "tca": 32.6,
+    "tap": 18.1,
+    "registros": 649,
+    "area": "Saúde e bem-estar",
+    "fonte": "fallback"
+  },
+  "inteligencia_artificial": {
+    "tda": 58.8,
+    "tca": 27.4,
+    "tap": 13.8,
+    "registros": 7,
+    "area": "Computação e TIC",
+    "fonte": "fallback"
+  }
+}
